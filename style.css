@@ -1,0 +1,44 @@
+h1 {
+    color:burlywood;
+}
+body {
+    background-color:white;
+}
+img {
+    color:gray
+}
+li {
+    background-color:antiquewhite;
+    font-size:20px;
+}
+h2 {
+    background-color:blanchedalmond;
+    font-style:oblique;
+    color:crimson;
+}
+.m1 {
+    border-style:dotted;
+    border-color:burlywood;
+}
+.m2 {
+    border-style:dashed;
+    border-color:aliceblue;
+}
+.m3 {
+    border-style:double;
+    border-color:darksalmon;
+}
+.m4 {
+    border-style:solid;
+    border-color:cornsilk;
+}
+.m5 {
+    border-style:dotted;
+    border-color:lightsalmon;
+}
+#TSC {
+    border-width:4px;
+}
+#TMK {
+    border-width:6px;
+}
