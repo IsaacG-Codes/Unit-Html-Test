@@ -19,22 +19,27 @@ h2 {
 .m1 {
     border-style:dotted;
     border-color:burlywood;
+    color:brown;
 }
 .m2 {
     border-style:dashed;
     border-color:aliceblue;
+    color:aquamarine;
 }
 .m3 {
     border-style:double;
     border-color:darksalmon;
+    color:azure;
 }
 .m4 {
     border-style:solid;
     border-color:cornsilk;
+    color:darkolivegreen;
 }
 .m5 {
     border-style:dotted;
     border-color:lightsalmon;
+    color:coral;
 }
 #TSC {
     border-width:4px;
