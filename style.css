@@ -50,3 +50,17 @@ h2 {
 #TMK {
     border-width:6px;
 }
+div.milestones {
+    text-align:center;
+}
+div.milestones:hover {
+    color:skyblue;
+}
+header{
+    font-size:40px;
+    color:red;
+    font-family:fantasy;
+}
+.paragraph-info {
+    text-align:center;
+}
