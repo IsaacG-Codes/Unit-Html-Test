@@ -53,6 +53,12 @@ h2 {
 div.milestones {
     text-align:center;
 }
+img.milestones2 {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+}
 div.milestones:hover {
     color:skyblue;
 }
